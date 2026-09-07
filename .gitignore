@@ -1,0 +1,26 @@
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android / Gradle generated files
+android/.gradle/
+android/local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Widget preview
+.widget_preview/
+
+# Logs / crash files
+*.log
+hs_err_pid*.log
+
+# OS
+.DS_Store
+Thumbs.db
